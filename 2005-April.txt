@@ -1,0 +1,125 @@
+From noreply at berlios.de  Thu Apr  7 11:18:04 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Thu, 7 Apr 2005 11:18:04 +0200 (CEST)
+Subject: [Cosanostra-logica] [cosanostra - Programación Lógica] Cerebro Pablo-Samer
+Message-ID: <200504070918.j379I4BL015074@unicorn.berlios.de>
+
+Read and respond to this message at: 
+http://developer.berlios.de/forum/message.php?msg_id=16863
+By: cmglez10
+
+Oye, que os parece si quitamos el Cerebro de Pablo-Samer ese del CVS, q es mas
+antiguo que el copon y nos quedamos solo con nuestro workSpace?
+Pues nada si alguien ve muchas respuestas apoyando la moci?n, que lo quite.
+
+______________________________________________________________________
+You are receiving this email because you elected to monitor this forum.
+To stop monitoring this forum, login to BerliOS Developer and visit: 
+http://developer.berlios.de/forum/monitor.php?forum_id=9545
+
+
+From noreply at berlios.de  Thu Apr  7 16:23:25 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Thu, 7 Apr 2005 16:23:25 +0200 (CEST)
+Subject: [Cosanostra-logica] [cosanostra - Programación Lógica] RE: Cerebro Pablo-Samer
+Message-ID: <200504071423.j37ENPhW002442@unicorn.berlios.de>
+
+Read and respond to this message at: 
+http://developer.berlios.de/forum/message.php?msg_id=16870
+By: al_081
+
+Apoyo la moci?n y de paso uso un poco el foro.
+
+______________________________________________________________________
+You are receiving this email because you elected to monitor this forum.
+To stop monitoring this forum, login to BerliOS Developer and visit: 
+http://developer.berlios.de/forum/monitor.php?forum_id=9545
+
+
+From noreply at berlios.de  Thu Apr  7 21:43:06 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Thu, 7 Apr 2005 19:43:06 GMT
+Subject: [Cosanostra-logica] [cosanostra - Programación Lógica] mamá salgo en internet!
+Message-ID: <200504071943.j37Jh6oB001104@unicorn.berlios.de>
+
+Read and respond to this message at: 
+http://developer.berlios.de/forum/message.php?msg_id=16879
+By: phoebe
+
+No recordaba haberme suscrito a la lista de neurociruj?a, pero
+bueno... Que les quiten el cerebro, y la m?dula espinal!
+
+Esto es s?lo para estrenar la cosa esta... Para variar no he sido la
+?ltima esta vez.
+
+
+Qu? mierda, qu? torpe soy, he respondido al hilo al noreply ese de los huevos
+que no debe valer para nada. Estas cosas modernas montgomery...
+
+______________________________________________________________________
+You are receiving this email because you elected to monitor this forum.
+To stop monitoring this forum, login to BerliOS Developer and visit: 
+http://developer.berlios.de/forum/monitor.php?forum_id=9545
+
+
+From noreply at berlios.de  Fri Apr  8 19:03:32 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Fri, 8 Apr 2005 19:03:32 +0200 (CEST)
+Subject: [Cosanostra-logica] [cosanostra - Programación Lógica] OK Cerebro
+Message-ID: <200504081703.j38H3WkH016842@unicorn.berlios.de>
+
+Read and respond to this message at: 
+http://developer.berlios.de/forum/message.php?msg_id=16904
+By: sergio_belmar
+
+Lo mismo ya lo habeis quitado, pero sino, quitarlo...
+
+______________________________________________________________________
+You are receiving this email because you elected to monitor this forum.
+To stop monitoring this forum, login to BerliOS Developer and visit: 
+http://developer.berlios.de/forum/monitor.php?forum_id=9545
+
+
+From noreply at berlios.de  Fri Apr  8 22:58:58 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Fri, 8 Apr 2005 22:58:58 +0200 (CEST)
+Subject: [Cosanostra-logica] [cosanostra - Programación Lógica] RE: OK Cerebro
+Message-ID: <200504082058.j38KwwZB008669@unicorn.berlios.de>
+
+Read and respond to this message at: 
+http://developer.berlios.de/forum/message.php?msg_id=16907
+By: s_a_m
+
+Como dijo Chun-li, "Ya ta!"
+
+______________________________________________________________________
+You are receiving this email because you elected to monitor this forum.
+To stop monitoring this forum, login to BerliOS Developer and visit: 
+http://developer.berlios.de/forum/monitor.php?forum_id=9545
+
+
+From noreply at berlios.de  Mon Apr 11 15:55:43 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Mon, 11 Apr 2005 15:55:43 +0200 (CEST)
+Subject: [Cosanostra-logica] [cosanostra - Programación Lógica] aplicacion: para ricardo...
+Message-ID: <200504111355.j3BDthnw005508@unicorn.berlios.de>
+
+Read and respond to this message at: 
+http://developer.berlios.de/forum/message.php?msg_id=16965
+By: sergio_belmar
+
+La aplicacion va de puta madre, la verdad es que da gusto probarla...
+Lo unico que le hecho en falta y que deberia tener es: 
+-Lo de las movidas estas de plato Actual="Si o No" y lo mismo para los
+escenarios...
+-Poder meter el Script para poder hacer pruebas, simplemente eso, el nombre...
+-Las Acciones en los estados, las 8 posibilidades metido con  "true o false"(yo
+lo he hecho con true false, pero da igual, si quieres poner si/no me la pela
+Venga, darle burcia al foro..
+
+______________________________________________________________________
+You are receiving this email because you elected to monitor this forum.
+To stop monitoring this forum, login to BerliOS Developer and visit: 
+http://developer.berlios.de/forum/monitor.php?forum_id=9545
+
+
